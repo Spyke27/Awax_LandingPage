@@ -16,10 +16,10 @@
 ## Resultado 💻
  <hr>
  <div style="display: flex;">
-    <img src="https://imgur.com/c84ZrVE" alt="Print App">
+    <img src="https://i.imgur.com/c84ZrVE.png" alt="Print App">
      <hr>
-    <img src="https://imgur.com/IcijcYa" alt="Print App">
+    <img src="https://i.imgur.com/IcijcYa.png" alt="Print App">
      <hr>
-    <img src="https://imgur.com/GiztH1h" alt="Print App">
+    <img src="https://i.imgur.com/GiztH1h.png" alt="Print App">
  </div>
 
