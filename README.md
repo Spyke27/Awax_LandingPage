@@ -12,7 +12,7 @@
 
  ## Projeto rodando:
  
- 🔰 Link: <a href="https://awaxlanding.netlify.app/">www.gameskids.com.br</a>
+ 🔰 Link: <a href="https://awaxlanding.netlify.app/">www.awax.com.br</a>
 ## Resultado 💻
  <hr>
  <div style="display: flex;">
